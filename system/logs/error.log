@@ -1,0 +1,28 @@
+2017-02-04 17:23:59 - PHP Notice:  Error: Password not accepted from server! in /home/givebunch/public_html/system/library/mail.php on line 287
+2017-02-04 17:26:09 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/shipping_method.tpl on line 32
+2017-02-04 17:26:39 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/payment_method.tpl on line 28
+2017-02-12 9:06:51 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/shipping_method.tpl on line 32
+2017-02-12 9:07:10 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/payment_method.tpl on line 28
+2017-02-12 12:51:42 - PHP Notice:  unserialize(): Error at offset 0 of 21 bytes in /home/givebunch/public_html/admin/model/sale/order.php on line 96
+2017-02-12 15:42:18 - PHP Notice:  unserialize(): Error at offset 0 of 21 bytes in /home/givebunch/public_html/admin/model/sale/order.php on line 96
+2017-02-28 9:31:08 - PHP Notice:  Undefined variable: entry_captcha in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/account/return_form.tpl on line 139
+2017-02-28 9:31:08 - PHP Notice:  Undefined variable: entry_captcha in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/account/return_form.tpl on line 141
+2017-03-04 12:12:40 - PHP Notice:  Undefined variable: entry_captcha in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/account/return_form.tpl on line 139
+2017-03-04 12:12:40 - PHP Notice:  Undefined variable: entry_captcha in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/account/return_form.tpl on line 141
+2017-03-14 8:25:49 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/shipping_method.tpl on line 32
+2017-03-14 8:26:08 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/payment_method.tpl on line 28
+2017-03-14 11:32:28 - PHP Notice:  Undefined variable: entry_captcha in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/account/return_form.tpl on line 139
+2017-03-14 11:32:28 - PHP Notice:  Undefined variable: entry_captcha in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/account/return_form.tpl on line 141
+2017-03-22 21:55:49 - PHP Notice:  Undefined variable: entry_captcha in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/account/return_form.tpl on line 139
+2017-03-22 21:55:49 - PHP Notice:  Undefined variable: entry_captcha in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/account/return_form.tpl on line 141
+2017-04-08 20:51:52 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/shipping_method.tpl on line 32
+2017-04-08 20:53:34 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/payment_method.tpl on line 28
+2017-04-08 20:54:27 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/shipping_method.tpl on line 32
+2017-04-08 20:55:23 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/payment_method.tpl on line 28
+2017-04-08 20:56:07 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/shipping_method.tpl on line 32
+2017-04-08 20:56:43 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/payment_method.tpl on line 28
+2017-04-10 6:27:37 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/shipping_method.tpl on line 32
+2017-04-10 6:27:56 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/payment_method.tpl on line 28
+2017-04-10 6:44:07 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/shipping_method.tpl on line 32
+2017-04-10 6:44:25 - PHP Notice:  Undefined variable: instruction in /home/givebunch/public_html/catalog/view/theme/themegloballite/template/checkout/payment_method.tpl on line 28
+2017-04-12 7:04:03 - PHP Warning:  session_start(): open(/tmp/sess_ac059728d6ed1bcbe00aeff39290227b, O_RDWR) failed: Permission denied (13) in /home/givebunch/public_html/system/library/session.php on line 12
